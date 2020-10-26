@@ -1,4 +1,4 @@
-# Proposal for Workshop on Vesrion Control of Documents
+# Proposal for Workshop on Version Control of Documents
 
 ## Why
 
