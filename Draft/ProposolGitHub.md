@@ -21,7 +21,7 @@ Version Control of Documents using Git
 The easiest way to manage versions of the documents is to use open source software tools. Every time, when a document is saved back to the repository, software creates a new version which enables to see the changes that have been made.
 There are many open source tools used for version controlling of documents. Git  is one among the popular tools for version control systems and is used by some of the largest companies in the entire world
 
-## Why
+## Why?
 
 ![Normal way to manage revisions](https://phdcomics.com/comics/archive/phd101212s.gif)
 
