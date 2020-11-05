@@ -1,41 +1,93 @@
-# Proposal for Workshop on "Sustainable Approach for Version Control of Documents"
+# Workshop on "Efficient, trackable and Sustainable Workflow"
 
-Subject: Proposal for a 5 day Workshop on "Sustainable Approach for Version Control of Documents"
+Duration: 20 hours (5 days @ 4 hours per day), includes on-line lectures,
+excercises, assignments, evaluations, on-line asynchronous troubleshooting
+discussion with resource persons as well as peer to peer.
 
-Keeping in view the challenges faced related to efficient record keeping and management of changes to programs or documents, a workshop on "Sustainable Approach for Version Control of Documents" is proposed in order to automate the manual system. This will lead to reduced computational time, elimination of redundant task and hence smaller environmental footprint.
+## Resource persons
 
-Most of us are spending a fair amount of our “computer time” just trying to organize and keep track of all of the files associated with our work. This is due to our current manual approach to maintain various versions of the document. Most probably we are saving different versions of same file e.g as notice_exam_16oct, notice_exam_17oct, notice_exam_18oct, notice_exam_final_oct etc. This approach will lead to tens or hundreds of similar files, making it difficult to directly compare different versions, and it is not easy to share among other users. Fig 1 give a snapshot of the current scenario followed by all.
+1. Dr. H. S. Rai
+1. Dr. Daljeet Singh
+1. Prof Shailja
+1. Prof. Yuvraj Singh
+
+## Necessity of workshop
+
+The functioning of any individual or any organisation is depending on
+documentation. It may be:
+
+1. Resume
+1. Work experience
+1. Project report
+1. Budget
+1. Corporate annual report
+1. Notices
+1. Brochures
+1. Invitation letter / cards
+
+and what not.
+
+Can you imagine any one of above is finalised is a single shot, or only one
+person is handling it?
+
+No, a big *NO*. That never happen. Even a small document, lile office memo,
+notice goes to a number of revisions and every thing involve mutiple
+persons.
+
+Same is the case with any publicaton, technical report, research report,
+thesis, academic report, convocation address.
+
+Most of us, most of the time maintaing various revisions by giving
+appropriat names (enjoy Comic in Fig 1 below), and sending latest edition / version
+to other involved (through pen-drive or e-mails) for incorporating in their
+work or for review.
+
+Fig 1 gives a snapshot of the current scenario followed by most of people.
 
 ![Normal way to manage revisions](https://phdcomics.com/comics/archive/phd101212s.gif)
 
-Among the many logistical headaches that we likely deal with on a daily basis using our current practice are:
+Is this a right approach?
 
-1.	Updating files or any official documents like notices, scripts or papers, without losing copies of their old version. 
-2.	Figuring out what changed between two versions of a file.
-3.	Maintaining multiple versions of files that started off the same but then diverged. 
-4.	Merging two divergent copies of a file.
-5.	Sharing your files (and their history) with the world — or just a few collaborators.
-6.	Syncing versions of your files across multiple computers and collaborating with colleagues on files.
+Definitely no.
 
-In short, a document will generally have several people involved in the drafting, reviewing and editing process, and it is very easy to get into a muddle with tracking which version is the current one, and therefore creating a possibility of working on the wrong file or using out-of-date information. Inorder to address these issues, we need to have a version control system.
+There is always challenge of making is sure that latest changes of inputs
+from all team members have been incorporated in to final report.
 
-Version Control is the management of multiple versions of the same document. It allows to keep track of the documents and helps to easily explore the changes done previously in the same document. 
+What is the way out?
 
-Why is Version Control Important?
-1.	It is important when documents that are being created has to undergo a lot of revisions and redrafting by a number of different users. 
-2.	It helps us to track changes and identify when key decisions were made along the way.
-3.	It helps to easily find out which version of a document is currently in force, or which version of a policy was in use at a particular time. 
+This workshop will be the answer.
 
-The easiest way to manage versions of the documents is to use open source software tools. Every time, when a document is saved back to the repository, software creates a new version which enables to see the changes that have been made.
-There are many open source tools used for version controlling of documents. Git is one among the popular tools for version control systems and is used by some of the largest companies in the entire world. 
+This workshop wil give you all necessary tools, handon pratical sessions to
+solve all these issue, and making sure that computer resources are used
+efficiently and with the provision to track who proposed the changes or who
+drafted what and who approved that, later any time, and roll-back, if there
+is necessity of that. 
 
-It forms good records keeping practice which is mandatory conditions for ISO 9001 certified institutions.
+## Why is Version Control Important?
+
+1. It is important when documents that are being created has to undergo a
+lot of revisions and redrafting by a number of different users.
+1. It helps us to track changes and identify when key decisions were made
+along the way.
+1. It helps to easily find out which version of a document is currently in
+force, or which version of a policy was in use at a particular time.
+
+Revision or version control system forms good records keeping practice
+which is mandatory conditions for all ISO 9001 certified organisations.
 
 ## Expected outcome
 
-Following will be the benefits of the course:
-1. It will help to manage version control of every document easily and free of cost as each file on GitHub has a history, making it easy to explore    the changes that occurred to it at different time points.
-2. All files necessary for certain analysis can be held together and people can add in their documents the required images, urls, graphs, etc. 
-3. It will enable to review other people’s documents, add comments to certain lines or the overall document, and suggest changes. 
-4. It will help to maintain online backup of data. Everyone who has rights can access the data. 
+Following will be the benefits to attendees of the workshop:
 
+1. Learn to manage version control of every document easily, making it easy
+to explore the changes that occurred to it at different time points.
+
+1. Learn to keep all files necessary for a particular project in a central
+repository, and give access to autorise persons, with tracking ability. In
+that central repository team members can add in their documents the required
+images, links, graphs, etc.
+1. Learn to review other people’s documents, add comments to certain lines
+or the overall document, and suggest changes.
+1. Learn maintain online backup of data. Everyone who has rights can
+access the data.
+1. Learn the ways to reduce ussage of computer resources.
