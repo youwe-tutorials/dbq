@@ -11,6 +11,8 @@ discussion with resource persons as well as peer to peer.
 1. Prof Shailja
 1. Prof. Yuvraj Singh
 
+Organised by Examination Branch of Guru Nanak Dev Engineering College in association of Civil Enginering and CSE departments.
+
 ## Necessity of workshop
 
 The functioning of any individual or any organisation is depending on
@@ -28,10 +30,10 @@ documentation. It may be:
 and what not.
 
 Can you imagine any one of above is finalised is a single shot, or only one
-person is handling it?
+person is involved in giving it final shape?
 
-No, a big *NO*. That never happen. Even a small document, lile office memo,
-notice goes to a number of revisions and every thing involve mutiple
+No, a big _NO_. That never happens. Even a small document, like a office memo or a 
+notice goes to a number of revisions and every thing involves mutiple
 persons.
 
 Same is the case with any publicaton, technical report, research report,
@@ -50,23 +52,23 @@ Is this a right approach?
 
 Definitely no.
 
-There is always challenge of making is sure that latest changes of inputs
-from all team members have been incorporated in to final report.
+There are always challenges of making it sure that latest changes or inputs
+from all team members have been incorporated in the final report.
 
 What is the way out?
 
 This workshop will be the answer.
 
 This workshop wil give you all necessary tools, handon pratical sessions to
-solve all these issue, and making sure that computer resources are used
-efficiently and with the provision to track who proposed the changes or who
-drafted what and who approved that, later any time, and roll-back, if there
-is necessity of that. 
+solve all these issues, and making sure that computer resources are used
+efficiently (thus making the process _green_) and with the provision to track
+who proposed the changes or who drafted what and who approved that, later any
+time, and roll-back, if there is necessity of that. 
 
 ## Why is Version Control Important?
 
 1. It is important when documents that are being created has to undergo a
-lot of revisions and redrafting by a number of different users.
+lot of revisions and redrafting by a number of different officials.
 1. It helps us to track changes and identify when key decisions were made
 along the way.
 1. It helps to easily find out which version of a document is currently in
@@ -77,7 +79,7 @@ which is mandatory conditions for all ISO 9001 certified organisations.
 
 ## Expected outcome
 
-Following will be the benefits to attendees of the workshop:
+Followings will be the benefits to attendees of the workshop:
 
 1. Learn to manage version control of every document easily, making it easy
 to explore the changes that occurred to it at different time points.
