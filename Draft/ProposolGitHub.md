@@ -7,6 +7,7 @@ discussion with resource persons as well as peer to peer.
 ## Resource persons
 
 1. Dr. H. S. Rai
+
 1. Dr. Daljeet Singh
 1. Prof Shailja
 1. Prof. Yuvraj Singh
@@ -69,8 +70,10 @@ time, and roll-back, if there is necessity of that.
 
 1. It is important when documents that are being created has to undergo a
 lot of revisions and redrafting by a number of different officials.
+
 1. It helps us to track changes and identify when key decisions were made
 along the way.
+
 1. It helps to easily find out which version of a document is currently in
 force, or which version of a policy was in use at a particular time.
 
@@ -82,14 +85,17 @@ which is mandatory conditions for all ISO 9001 certified organisations.
 Followings will be the benefits to attendees of the workshop:
 
 1. Learn to manage version control of every document easily, making it easy
-to explore the changes that occurred to it at different time points.
+to explore the changes that occurred to it at different points of time.
 
 1. Learn to keep all files necessary for a particular project in a central
-repository, and give access to autorise persons, with tracking ability. In
+repository, and give access to autorised persons, with tracking ability. In
 that central repository team members can add in their documents the required
 images, links, graphs, etc.
+
 1. Learn to review other people’s documents, add comments to certain lines
 or the overall document, and suggest changes.
+
 1. Learn maintain online backup of data. Everyone who has rights can
 access the data.
+
 1. Learn the ways to reduce ussage of computer resources.
