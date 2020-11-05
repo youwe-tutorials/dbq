@@ -19,7 +19,6 @@ The functioning of any individual or any organisation is depending on
 documentation. It may be:
 
 1. Resume
-
 1. Work experience
 1. Project report
 1. Budget
@@ -90,7 +89,6 @@ that central repository team members can add in their documents the required
 images, links, graphs, etc.
 1. Learn to review other people’s documents, add comments to certain lines
 or the overall document, and suggest changes.
-
 1. Learn maintain online backup of data. Everyone who has rights can
 access the data.
 1. Learn the ways to reduce ussage of computer resources.
