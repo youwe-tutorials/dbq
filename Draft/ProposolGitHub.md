@@ -11,11 +11,11 @@ discussion with resource persons as well as peer to peer.
 1. Prof Shailja
 1. Prof. Yuvraj Singh
 
-Organised by Examination Branch of Guru Nanak Dev Engineering College in association of Civil Enginering and CSE departments.
+Organised by Examination Branch of Guru Nanak Dev Engineering College in association with Civil Enginering and CSE departments.
 
 ## Necessity of workshop
 
-The functioning of any individual or any organisation is depending on
+The functioning of any individual or an organisation is dependent on
 documentation. It may be:
 
 1. Resume
@@ -29,18 +29,18 @@ documentation. It may be:
 
 and what not.
 
-Can you imagine any one of above is finalised is a single shot, or only one
-person is involved in giving it final shape?
+Can you imagine any one of the above is finalised in a single shot, or only one
+person is involved in giving it a final shape?
 
-No, a big **NO**. That never happens. Even a small document, like a office memo or a 
-notice goes to a number of revisions and every thing involves mutiple
+No, a big **NO**. That never happens. Even a small document, like an office memo or a 
+notice undergoes number of revisions and every task involves mutiple
 persons.
 
 Same is the case with any publicaton, technical report, research report,
 thesis, academic report, convocation address.
 
 Most of us, most of the time maintaing various revisions by giving
-appropriat names (enjoy Comic in Fig 1 below), and sending latest edition / version
+appropriate names (enjoy Comic in Fig 1 below), and sending latest edition / version
 to other involved (through pen-drive or e-mails) for incorporating in their
 work or for review.
 
@@ -59,7 +59,7 @@ What is the way out?
 
 This workshop will be the answer.
 
-This workshop wil give you all necessary tools, handon pratical sessions to
+This workshop will give you all the necessary tools, hands-on pratical sessions to
 solve all these issues, and making sure that computer resources are used
 efficiently (thus making the process **green**) and with the provision to track
 who proposed the changes or who drafted what and who approved that, later any
