@@ -7,7 +7,6 @@ discussion with resource persons as well as peer to peer.
 ## Resource persons
 
 1. Dr. H. S. Rai
-
 1. Dr. Daljeet Singh
 1. Prof Shailja
 1. Prof. Yuvraj Singh
@@ -34,7 +33,7 @@ and what not.
 Can you imagine any one of above is finalised is a single shot, or only one
 person is involved in giving it final shape?
 
-No, a big _NO_. That never happens. Even a small document, like a office memo or a 
+No, a big **NO**. That never happens. Even a small document, like a office memo or a 
 notice goes to a number of revisions and every thing involves mutiple
 persons.
 
@@ -63,7 +62,7 @@ This workshop will be the answer.
 
 This workshop wil give you all necessary tools, handon pratical sessions to
 solve all these issues, and making sure that computer resources are used
-efficiently (thus making the process _green_) and with the provision to track
+efficiently (thus making the process **green**) and with the provision to track
 who proposed the changes or who drafted what and who approved that, later any
 time, and roll-back, if there is necessity of that. 
 
@@ -71,10 +70,8 @@ time, and roll-back, if there is necessity of that.
 
 1. It is important when documents that are being created has to undergo a
 lot of revisions and redrafting by a number of different officials.
-
 1. It helps us to track changes and identify when key decisions were made
 along the way.
-
 1. It helps to easily find out which version of a document is currently in
 force, or which version of a policy was in use at a particular time.
 
@@ -87,16 +84,13 @@ Followings will be the benefits to attendees of the workshop:
 
 1. Learn to manage version control of every document easily, making it easy
 to explore the changes that occurred to it at different points of time.
-
 1. Learn to keep all files necessary for a particular project in a central
 repository, and give access to autorised persons, with tracking ability. In
 that central repository team members can add in their documents the required
 images, links, graphs, etc.
-
 1. Learn to review other people’s documents, add comments to certain lines
 or the overall document, and suggest changes.
 
 1. Learn maintain online backup of data. Everyone who has rights can
 access the data.
-
 1. Learn the ways to reduce ussage of computer resources.
