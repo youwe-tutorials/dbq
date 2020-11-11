@@ -1,4 +1,5 @@
-# Workshop on "Efficient, trackable and Sustainable Workflow"
+### Value Added Workshop on
+# Efficient, trackable and Sustainable Workflow
 
 Duration: 20 hours (5 days @ 4 hours per day), includes on-line lectures,
 excercises, assignments, evaluations, on-line asynchronous troubleshooting
@@ -59,7 +60,7 @@ What is the way out?
 
 This workshop will be the answer.
 
-This workshop will give you all the necessary tools, hands-on pratical sessions to
+This `valur added workshop` workshop will give you all the necessary tools, hands-on pratical sessions to
 solve all these issues, and making sure that computer resources are used
 efficiently (thus making the process **green**) and with the provision to track
 who proposed the changes or who drafted what and who approved that, later any
@@ -84,11 +85,12 @@ Followings will be the benefits to attendees of the workshop:
 1. Learn to manage version control of every document easily, making it easy
 to explore the changes that occurred to it at different points of time.
 1. Learn to keep all files necessary for a particular project in a central
-repository, and give access to autorised persons, with tracking ability. In
-that central repository team members can add in their documents the required
-images, links, graphs, etc.
+place (repository), and give access to autorised persons, with tracking ability.
+To that central repository team members can add documents, images, links,
+graphs, etc.
 1. Learn to review other people’s documents, add comments to certain lines
 or the overall document, and suggest changes.
-1. Learn maintain online backup of data. Everyone who has rights can
+1. Learn to maintain online backup of data. Everyone who has rights can
 access the data.
-1. Learn the ways to reduce ussage of computer resources.
+1. Learn the ways to reduce ussage of computer resources to make th eprocess
+enery efficient (green).
