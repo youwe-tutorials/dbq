@@ -2,7 +2,7 @@
 # Efficient, trackable and Sustainable Workflow
 
 Duration: 20 hours (5 days @ 4 hours per day), includes on-line lectures,
-excercises, assignments, evaluations, on-line asynchronous troubleshooting
+exercises, assignments, evaluations, on-line asynchronous troubleshooting
 discussion with resource persons as well as peer to peer.
 
 ## Resource persons
@@ -12,7 +12,7 @@ discussion with resource persons as well as peer to peer.
 1. Prof Shailja
 1. Prof. Yuvraj Singh
 
-Organised by Examination Branch of Guru Nanak Dev Engineering College in association with Civil Enginering and CSE departments.
+Organised by Examination Branch of Guru Nanak Dev Engineering College in association with Civil Engineering and CSE departments.
 
 ## Necessity of workshop
 
@@ -33,23 +33,23 @@ and what not.
 Can you imagine any one of the above is finalised in a single shot, or only one
 person is involved in giving it a final shape?
 
-No, a big **NO**. That never happens. Even a small document, like an office memo or a 
-notice undergoes number of revisions and every task involves mutiple
+No, a big **NO**. That never happens. Even a small document, like an office memo or a
+notice undergoes a number of revisions and every task involves multiple
 persons.
 
-Same is the case with any publicaton, technical report, research report,
+Same is the case with any publication, technical report, research report,
 thesis, academic report, convocation address.
 
-Most of us, most of the time maintaing various revisions by giving
+Most of us, most of the time maintaining various revisions by giving
 appropriate names (enjoy Comic in Fig 1 below), and sending latest edition / version
 to other involved (through pen-drive or e-mails) for incorporating in their
 work or for review.
 
-Fig 1 gives a snapshot of the current scenario followed by most of people.
+Fig 1 gives a snapshot of the current scenario followed by most people.
 
 ![Normal way to manage revisions](https://phdcomics.com/comics/archive/phd101212s.gif)
 
-Is this a right approach?
+Is this the right approach?
 
 Definitely no.
 
@@ -60,22 +60,22 @@ What is the way out?
 
 This workshop will be the answer.
 
-This `valur added workshop` workshop will give you all the necessary tools, hands-on pratical sessions to
-solve all these issues, and making sure that computer resources are used
-efficiently (thus making the process **green**) and with the provision to track
+This `valur added workshop` workshop will give you all the necessary tools, hands-on 
+practical sessions to solve all these issues, and making sure that computer resources 
+are used efficiently (thus making the process **green**) and with the provision to track
 who proposed the changes or who drafted what and who approved that, later any
-time, and roll-back, if there is necessity of that. 
+time, and roll-back, if there is necessity of that.
 
 ## Why is Version Control Important?
 
-1. It is important when documents that are being created has to undergo a
+1. It is important when documents that are being created have to undergo a
 lot of revisions and redrafting by a number of different officials.
 1. It helps us to track changes and identify when key decisions were made
 along the way.
 1. It helps to easily find out which version of a document is currently in
 force, or which version of a policy was in use at a particular time.
 
-Revision or version control system forms good records keeping practice
+Revision or version control systems form good records keeping practice
 which is mandatory conditions for all ISO 9001 certified organisations.
 
 ## Expected outcome
@@ -85,12 +85,12 @@ Followings will be the benefits to attendees of the workshop:
 1. Learn to manage version control of every document easily, making it easy
 to explore the changes that occurred to it at different points of time.
 1. Learn to keep all files necessary for a particular project in a central
-place (repository), and give access to autorised persons, with tracking ability.
+place (repository), and give access to authorised persons, with tracking ability.
 To that central repository team members can add documents, images, links,
 graphs, etc.
 1. Learn to review other people’s documents, add comments to certain lines
 or the overall document, and suggest changes.
 1. Learn to maintain online backup of data. Everyone who has rights can
 access the data.
-1. Learn the ways to reduce ussage of computer resources to make th eprocess
-enery efficient (green).
+1. Learn the ways to reduce usage of computer resources to make the process
+energy efficient (green).
