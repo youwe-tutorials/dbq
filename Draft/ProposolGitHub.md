@@ -1,4 +1,4 @@
-### Value Added Workshop on
+### skill Development Training on
 # Efficient, trackable and Sustainable Workflow
 
 Duration: 20 hours (5 days @ 4 hours per day), includes on-line lectures,
@@ -58,9 +58,9 @@ from all team members have been incorporated in the final report.
 
 What is the way out?
 
-This workshop will be the answer.
+This `Skill Development Training` will be the answer.
 
-This `valur added workshop` workshop will give you all the necessary tools, hands-on 
+This `Skill development training` will give you all the necessary tools, hands-on 
 practical sessions to solve all these issues, and making sure that computer resources 
 are used efficiently (thus making the process **green**) and with the provision to track
 who proposed the changes or who drafted what and who approved that, later any
@@ -80,7 +80,7 @@ which is mandatory conditions for all ISO 9001 certified organisations.
 
 ## Expected outcome
 
-Followings will be the benefits to attendees of the workshop:
+Followings will be the benefits to attendees:
 
 1. Learn to manage version control of every document easily, making it easy
 to explore the changes that occurred to it at different points of time.
