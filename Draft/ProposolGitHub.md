@@ -1,4 +1,4 @@
-### skill Development Training on
+### Skill Development Training on
 # Efficient, trackable and Sustainable Workflow
 
 Duration: 20 hours (5 days @ 4 hours per day), includes on-line lectures,
