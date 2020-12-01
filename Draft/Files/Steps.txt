@@ -1,0 +1,9 @@
+python countwords.py books/last.txt last.dat
+python countwords.py books/isles.txt isles.dat
+python countwords.py books/abyss.txt abyss.dat
+python countwords.py books/sierra.txt sierra.dat
+python testzipf.py  last.dat  isles.dat  abyss.dat  sierra.dat > results.txt
+python plotcounts.py last.dat last.png
+python plotcounts.py isles.dat isles.png
+python plotcounts.py abyss.dat abyss.png
+python plotcounts.py sierra.dat sierra.png

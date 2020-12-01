@@ -1,2 +1,1 @@
-# dbq
-Database queries
+Draft of draft
