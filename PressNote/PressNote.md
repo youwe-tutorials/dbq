@@ -1,6 +1,6 @@
 # PRESS NOTE
 
-### One Week Skill Development Training commenced at GNDEC 
+### SDT on "Efficient, Trackable and Sustainable Workflow" inaugurated
 
 December 02, 2020
 
@@ -9,7 +9,11 @@ sure that the computer resources are used efficiently and with the provision to
 track changes, TEQIP-III sponsored skill development training on "Efficient, 
 Trackable and Sustainable Workflow" has been organised by Examination 
 Branch of Guru Nanak Dev Engineering College (GNDEC) in association with
-Departments of Civil Engineering and Computer Science Engineering. This one week training
+Departments of Civil Engineering and Computer Science Engineering.
+
+![Add photo here](Link to photo)
+
+This one week training
 suitable for all professionals commenced from December 02, 2020 onwards with an inaugural session.
 Course Co-ordinator, Dr H S Rai welcoming all the participants outlined the essence of the
 training program. He said that the functioning of any individual or an organisation is
