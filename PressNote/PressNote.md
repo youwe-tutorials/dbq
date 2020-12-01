@@ -31,7 +31,7 @@ Dr Sehijpal Singh, Principal, GNDEC, said that
 He expressed his heartiest congratulation to the organising departments
 and the entire training team. 
 
-In the end, Prof ___________ extended the vote of thanks. 
+In the end, Prof __________ extended the vote of thanks. 
 
 
 
