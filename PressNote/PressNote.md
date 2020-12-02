@@ -11,7 +11,7 @@ Trackable and Sustainable Workflow" has been organised by Examination
 Branch of Guru Nanak Dev Engineering College (GNDEC) in association with
 Departments of Civil Engineering and Computer Science Engineering.
 
-![1](https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/1.jpeg)		![2](https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/2.jpeg)
+![1](https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/2.2.jpeg)		![2](https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/1.2.jpeg)
 
 This one week training suitable for all professionals commenced from December 02, 2020 
 onwards with an inaugural session. Course Co-ordinator, Dr H S Rai welcoming all the
