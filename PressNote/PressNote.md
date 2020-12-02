@@ -2,7 +2,7 @@
 
 ### SDT on "Efficient, Trackable and Sustainable Workflow" inaugurated
 
-02 ਦਸੰਬਰ, 2020
+December 02, 2020
 
 To address the issues associated with poor workflow, and making 
 sure that the computer resources are used efficiently and with the provision to 
