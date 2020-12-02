@@ -23,14 +23,16 @@ revisions by giving appropriate names, and sending latest edition / version to o
 involved (through pen-drive or e-mails)for incorporating in their work or for review.
 This is definitely an inefficient approach resulting in poor workflow. 
 Dr Rai added that this workshop will emphasize on Version Control System (VCS) 
-which will address the highlighted issues and will result in efficient, trackable and sustainable workflow.
+which will address the highlighted issues and will result in efficient, trackable and
+sustainable workflow.
 
-Dr Sehijpal Singh, Principal, GNDEC, while addressing the audience said that   Followed by this, _____________
-
-Reviewer of the course, Dr Sukhjit Shera
-
-He expressed his heartiest congratulation to the organising departments
-and the entire training team. In the end, Prof Yuvraj Singh extended the vote of thanks. 
+Dr Sehijpal Singh, Principal, GNDEC, while addressing the audience said that efficient workflow
+is the need of every organisation as poor documentation often leads to mismanagement and wastage 
+of lot of resources. He extended best wishes to the participants and wished for a fruitful outcome
+of this training program. Guest and Reviewer of the course, Dr Sukhjit Shera, emphasized that efficient 
+flow of work is need of an hour and is crucial for success of any organisation. He expressed his
+heartiest congratulation to the organising team for bringing forward a much needed training program.
+In the end, Prof Yuvraj Singh extended a vote of thanks.
 
 
 
