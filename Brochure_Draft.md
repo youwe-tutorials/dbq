@@ -113,7 +113,6 @@ energy efficient (green).
 
 
 
-
 ### EVALUATION CRITERIA
 
 An evaluation test for the assessment of the acquired
@@ -136,6 +135,14 @@ Guru Nanak Dev Engineering College, Ludhiana
 1. Prof. Shailja
 1. Prof. Yuvraj Singh
 
+#### Advisors
+1. Dr. Harpal Singh
+1. Dr. Paramjit Singh Bilga
+1. Dr. Kanwar Deep Singh
+1. Dr. Parminder Singh
+1. Dr. Akshay Girdhar
+1. Dr. Davinder Singh Pathania
+
 ### CONTACT INFORMATION
 
 Prof. 
@@ -152,7 +159,7 @@ Phone: +91
 
 • Workshop Dates: 
 
-• Inauguration: ___ a.m. on November ___, 2020.
+• Inauguration: ___ a.m. on December ___, 2020.
 
 ### IMPORTANT DATES
 
