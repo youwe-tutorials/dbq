@@ -13,10 +13,9 @@ Departments of Civil Engineering and Computer Science Engineering.
 
 ![Add photo here](Link to photo)
 
-This one week training
-suitable for all professionals commenced from December 02, 2020 onwards with an inaugural session.
-Course Co-ordinator, Dr H S Rai welcoming all the participants outlined the essence of the
-training program. He said that the functioning of any individual or an organisation is
+This one week training suitable for all professionals commenced from December 02, 2020 
+onwards with an inaugural session. Course Co-ordinator, Dr H S Rai welcoming all the
+participants outlined the essence of the training program. He said that the functioning of any individual or an organisation is
 dependent on its documentation. He added that even a small document, like an office memo
 or a notice undergoes a number of revisions and every task involves multiple persons. 
 Most of us, most of the time maintain various revisions by giving appropriate names,
