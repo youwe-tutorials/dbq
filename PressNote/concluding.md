@@ -19,7 +19,9 @@ Departments of Civil Engineering and Computer Science Engineering concluded succ
 
          Principal Dr Sehijpal with Course Co-ordinator and Reviewer
 
-<img src="picture/5.jpg" title="" alt="valedictorypic" width="590">
+<img src="https://github.com/yuvrajsingh2304/dbq/blob/main/PressNote/Picture/5.jpg" title="" alt="valedictorypic" width="590">
+
+             Glimpse of Online Valedictory FUnction
 
                    Glimpse of Online Valedictory Function                              `
 
