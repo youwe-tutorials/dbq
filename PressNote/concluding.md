@@ -13,7 +13,7 @@ Departments of Civil Engineering and Computer Science Engineering concluded succ
 
 ![1](https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/4.jpg) 
 
-               The organising team of SDT during the event
+            The organising team of SDT during the event
 
 <img title="" src="https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/1.jpeg" alt="2" width="577">
 
@@ -34,11 +34,15 @@ changing scenario, Dr Rai emphasized on paper-less and thus a sustainable approa
 open-source powerful tools. Adding to this, he also talked about importance of version control of these documents which was 
 the core of this training program.
 
-Course reviewer, Dr Sukhjit Shera , on this occasion congratulated GNDEC and the organising team for bringing forwarded a much needed course. He appreciated the way the course was conducted and suggested the team for bringing a similar course with a longer duration for effective implementation in the organisation. 
+Course reviewer, Dr Sukhjit Shera , on this occasion congratulated GNDEC and the organising team for bringing forwarded a much needed course. 
+He appreciated the way the course was conducted and suggested the team for bringing a similar course with a longer duration for effective implementation
+ in the organisation. 
 
-During the valedictory function, feedback from participants was taken. The participants expressed their joy in learning new skills during the training program. One of the participant, Dr K D Singh said that if implemented, such a version control system can prove to be a revolutionary step for the organising to address issues related to effective management of documentation.
+During the valedictory function, feedback from participants was taken. The participants expressed their joy in learning new skills during the training program.
+One of the participants, Dr K D Singh said that if implemented, such a version control system can prove to be a revolutionary step for the organisation to address 
+issues related to effective management of documentation.
 
-TEQIP Coordintor Dr Harwinder Singh, expressed his contentment on successful execution and completion of the training program.
+TEQIP Coordintor Dr Harwinder Singh, expressed his contentment on successful execution and completion of the training program. 
 
 Guest of honour and founder of Sabudh Foundation, Dr Sarabjot Singh Anand expressed his heartiest congratulation to the institute for conducting such a wonderful and much needed course. Guest of honour and Director UIET, Panjab University, Dr Savita Gupta expressed her honour to be a part of this program which is the need of the hour.  She emphasized that such a version control system for sustainable workflow is vital for effective work culture in every organisation. She congratulated organisers for the remarkable effort in this direction.
 
