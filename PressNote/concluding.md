@@ -34,7 +34,7 @@ changing scenario, Dr Rai emphasized on paper-less and thus a sustainable approa
 open-source powerful tools. Adding to this, he also talked about importance of version control of these documents which was 
 the core of this training program.
 
-Course reviewer, Dr Sukhjit Shera , on this occasion congratulated GNDEC and the organising team for bringing forwarded a much needed course. 
+Course reviewer, Dr Sukhjit Shera, on this occasion congratulated GNDEC and the organising team for bringing forwarded a much needed course. 
 He appreciated the way the course was conducted and suggested the team for bringing a similar course with a longer duration for effective implementation
  in the organisation. 
 
