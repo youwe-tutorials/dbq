@@ -21,7 +21,7 @@ Departments of Civil Engineering and Computer Science Engineering concluded succ
 
 <img src="https://yuvrajsingh2304.github.io/dbq/PressNote/Picture/5.jpg" title="" alt="valedictorypic" width="590">
 
-                   Glimpse of Online Valedictory FUnction
+                   Glimpse of Online Valedictory Function
 
 This one week training suitable for all professionals commenced from December 02, 2020 onwards on a self-paced mode. 
 The skill development training concluded successfully with a valedictory function. Course Co-ordinator, Dr H S Rai while
