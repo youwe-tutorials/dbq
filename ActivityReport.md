@@ -12,7 +12,8 @@ To address the issues associated with poor workflow, and making sure that the co
 efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on
 "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of 
 Guru Nanak Dev Engineering College (GNDEC) in association with Departments of Civil Engineering 
-and Computer Science Engineering. 
+and Computer Science Engineering.   
+
 
 As intended, this Skill development training imparted the participants all the necessary tools,
 hands-on practical sessions to solve all the issues related to documentation and its version control,
@@ -21,11 +22,12 @@ who proposed the changes or who drafted what and who approved that, later any ti
 
 This one week training which was suitable for all professionals commenced from December 02, 2020 onwards on a self-paced mode. 
 The skill development training concluded successfully with a valedictory function. There was a diverse range of participants in 
-the course from the Principal of the institution, faculty members, students to non-teaching staff.
-In order to deliver the course content effectively and efficiently, an excellent learning platform and content management system called Moodle was used. 
+the course from the Principal of the institution, faculty members, students to non-teaching staff. In order to deliver the course 
+content effectively and efficiently, an excellent learning platform and content management system called Moodle was used. 
 This platform enabled the partcipants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning 
 by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, the training program
-emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. 
+emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools.   
+
 ### Expected Benefits Derived and How it will be helpful to the College
 
 **The successful participants after attending the training program are expected to be able to** 
