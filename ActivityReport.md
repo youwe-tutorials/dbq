@@ -8,8 +8,6 @@
 
 ### Course Content
 
-<div style="text-align: centre"> 
-  
 To address the issues associated with poor workflow, and making sure that the computer resources are used
 efficiently and with the provision to track changes, TEQIP-III sponsored skill development training on
 "Efficient, Trackable and Sustainable Workflow" was organised by Examination Branch of 
@@ -28,11 +26,6 @@ In order to deliver the course content effectively and efficiently, an excellent
 This platform enabled the partcipants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning 
 by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, the training program
 emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. 
-
-</div>
-
-<br>
-
 ### Expected Benefits Derived and How it will be helpful to the College
 
 **The successful participants after attending the training program are expected to be able to** 
