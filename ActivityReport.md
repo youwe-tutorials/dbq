@@ -5,7 +5,6 @@
 | Name of Event | SKill Development Training on "Efficient, Trackable and Sustainable Workflow |
 | ------ | -------- |
 | **Date and Venue of Event** | December 02 to December 08, 2020 (Online Mode) |  
-
 <br>
 
 ### Course Content
@@ -28,7 +27,6 @@ In order to deliver the course content effectively and efficiently, an excellent
 This platform enabled the partcipants to learn and attain hands on experience at their own pace. The training program also encouraged peer learning 
 by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, the training program
 emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. 
-
 <br>
 
 ### Expected Benefits Derived and How it will be helpful to the College
