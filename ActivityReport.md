@@ -1,12 +1,12 @@
-## ACTIVITY REPORT  
+## ACTIVITY REPORT 
 
-
+<br>
 
 | Name of Event | SKill Development Training on "Efficient, Trackable and Sustainable Workflow |
 | ------ | -------- |
 | **Date and Venue of Event** | December 02 to December 08, 2020 (Online Mode) |  
 
-
+<br>
 
 ### Course Content
 
@@ -29,17 +29,7 @@ This platform enabled the partcipants to learn and attain hands on experience at
 by discussing doubts among participants at the dedicated forum. Furthermore, keeping in view the changing scenario, the training program
 emphasized on paper-less and thus a sustainable approach towards documentation by using available open-source powerful tools. 
 
-For 
-
-
-TEQIP Coordintor Dr Harwinder Singh, expressed his contentment on successful execution and completion of the training program.
-
-Guest of honour and founder of Sabudh Foundation, Dr Sarabjot Singh Anand expressed his heartiest congratulation to the institute for conducting such a wonderful and much needed course. Guest of honour and Director UIET, Panjab University, Dr Savita Gupta expressed her honour to be a part of this program which is the need of the hour. She emphasized that such a version control system for sustainable workflow is vital for effective work culture in every organisation. She congratulated organisers for the remarkable effort in this direction.
-
-Dr Sehijpal Singh, Principal, GNDEC, while addressing the audience said that efficient workflow is the need of every organisation as poor documentation often leads to mismanagement and wastage of lot of resources. He expressed his views on importance of this much needed course for addressing the said issues. Furthermore, he, as a course participant too, said that the training program was an enjoyble and a great learning experience. He congratulated the organising team for this wonderful effort and dedicated approach during the training program.
-
-In the end, Course Co-Coordinator Prof Yuvraj Singh thanked all the participants and dignitaries for making this program a great success.  
-
+<br>
 
 ### Expected Benefits Derived and How it will be helpful to the College
 
@@ -57,10 +47,10 @@ step for the organisation to address issues related to effective management of d
 
 As far as our institute is concerned, already a shift and a positive inclination towards this version control system can be seen in the college. 
 As a result of which we are also expecting release of latest College Newsletter through the use of GitHub.
-Organising team is excited to see how it goes and would happily extend help in every possible way to bring this revolutionary change.   
+Organising team is excited to see how it goes and would happily extend help in every possible way to bring this revolutionary change.  
 
-
-
+<br>
+<br>
 
 #### Signature of Event Co-ordinator
 
