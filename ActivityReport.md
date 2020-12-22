@@ -2,7 +2,7 @@
 
 <br>
 
-| Name of Event | SKill Development Training on "Efficient, Trackable and Sustainable Workflow |
+| Name of Event | SKill Development Training on "Efficient, Trackable and Sustainable Workflow" |
 | ------ | -------- |
 | **Date and Venue of Event** | December 02 to December 08, 2020 (Online Mode) | 
 
@@ -30,7 +30,7 @@ emphasized on paper-less and thus a sustainable approach towards documentation b
 
 ### Expected Benefits Derived and How it will be helpful to the College
 
-**The participants after attending the training should be able to** 
+**The successful participants after attending the training program are expected to be able to** 
 
 - Manage version control of every document easily, making it easy to explore the changes that occurred to it at different points of time.
 - Keep all files necessary for a particular project in a central place (repository), and give access to authorised persons, with tracking ability. 
