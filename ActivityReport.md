@@ -4,8 +4,7 @@
 
 | Name of Event | SKill Development Training on "Efficient, Trackable and Sustainable Workflow |
 | ------ | -------- |
-| **Date and Venue of Event** | December 02 to December 08, 2020 (Online Mode) |  
-<br>
+| **Date and Venue of Event** | December 02 to December 08, 2020 (Online Mode) | 
 
 ### Course Content
 
