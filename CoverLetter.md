@@ -4,7 +4,7 @@ TEQIP Coordinator
 Guru Nanak Dev Engineering College  
 Ludhiana   
 
-December 23, 2020  
+February 15, 2021
   
 Subject - Settlement of bills of TEQIP-III sponsored SDT on "Efficient, Trackable and Sustainable Workflow" held from December 02 to 08, 2020   
 
